@@ -1,0 +1,2 @@
+Rules\AutoTileRulesFirst.tmx
+Rules\AutoTileRulesSecond.tmx
